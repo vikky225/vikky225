@@ -10,5 +10,5 @@
 [twitter]: https://twitter.com/VikasComau
 [instagram]: https://www.instagram.com/vikassvits/
 [linkedin]: https://linkedin.com/in/vikasmalviya225
-[facebook]: https://www.facebook.com/vikas.malviya3/
+[facebook]: https://www.facebook.com/vikas.malviya3
 
