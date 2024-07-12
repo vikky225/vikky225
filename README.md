@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **vikas.comau@gmail.com**
 
+- discord telegram to do
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vikascomau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikascomau" height="30" width="40" /></a>
