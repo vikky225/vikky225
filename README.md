@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Golang,Azure,Python**
 
-- 💬 Ask me about **Java ,Kotlin ,Azure**
+- 💬 Ask me about **Java ,Kotlin,Golang,Aws,Kafka,Azure,Docker,Kubernetes,Terraform,Argo CD, Github Action **
 
 - 📫 How to reach me **vikas.comau@gmail.com**
 
