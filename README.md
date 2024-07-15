@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Malviya</h1>
 <h3 align="center">A passionate Full Stack developer, Microservices and Cloud Engineer from Australia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikky225&label=Profile%20views&color=0e75b6&style=flat" alt="vikky225" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikky225" alt="vikky225" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vikascomau" target="blank"><img src="https://img.shields.io/twitter/follow/vikascomau?logo=twitter&style=for-the-badge" alt="vikascomau" /></a> </p>
-
 - 🔭 I’m currently working on **Golang**
 
 - 🌱 I’m currently learning **Golang,Azure,Python**
@@ -32,9 +26,15 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vikascomaun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vikascomaun" /></a></p><br><br>
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=vikky225&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikky225&label=Profile%20views&color=0e75b6&style=flat" alt="vikky225" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikky225" alt="vikky225" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/vikascomau" target="blank"><img src="https://img.shields.io/twitter/follow/vikascomau?logo=twitter&style=for-the-badge" alt="vikascomau" /></a> </p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikky225&show_icons=true&locale=en&layout=compact" alt="vikky225" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikky225&show_icons=true&locale=en" alt="vikky225" /></p>
