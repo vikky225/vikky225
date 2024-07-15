@@ -33,7 +33,7 @@
 <p><a href="https://www.buymeacoffee.com/vikascomaun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vikascomaun" /></a></p><br><br>
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=vikky225&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikky225&show_icons=true&locale=en&layout=compact" alt="vikky225" /></p>
 
