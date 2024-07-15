@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vikas Malviya</h1>
 <h3 align="center">A passionate Full Stack developer, Microservices and Cloud Engineer from Australia</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikky225&show_icons=true&locale=en&layout=compact" alt="vikky225" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikky225&show_icons=true&locale=en" alt="vikky225" /></p>
+
 - 🔭 I’m currently working on **Golang**
 
 - 🌱 I’m currently learning **Golang,Azure,Python**
@@ -35,6 +39,4 @@
 <p align="left"> <a href="https://twitter.com/vikascomau" target="blank"><img src="https://img.shields.io/twitter/follow/vikascomau?logo=twitter&style=for-the-badge" alt="vikascomau" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikky225&show_icons=true&locale=en&layout=compact" alt="vikky225" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikky225&show_icons=true&locale=en" alt="vikky225" /></p>
