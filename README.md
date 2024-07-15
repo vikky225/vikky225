@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Malviya</h1>
-<h3 align="center">A passionate Full Stack developer, Microservices and Cloud Engineer from Australia</h3>
+<h3 align="center">A passionate Full Stack developer, Microservices and Cloud Engineer in Australia</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikky225&show_icons=true&locale=en&layout=compact" alt="vikky225" /></p>
 
