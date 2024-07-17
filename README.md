@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Golang**
 
-- 🌱 I’m currently learning **Golang,Azure,Kafka,Python**
+- 🌱 I’m currently learning **Golang,Java21,Azure,Kafka,Python**
 
 - 💬 Ask me about **Java,Kotlin,Golang,Aws,Kafka,Azure,Docker,Kubernetes,Terraform,ArgoCD,Github_Action**
 
