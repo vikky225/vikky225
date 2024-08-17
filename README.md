@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Malviya</h1>
-<h3 align="center">A passionate Full Stack developer (Java Jee Stack), Microservices and Cloud Engineer in Australia</h3>
+<h3 align="center">A passionate Full Stack developer (Java Jee Stack), Microservices and Cloud Engineer in Australia
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikky225&show_icons=true&locale=en&layout=compact" alt="vikky225" /></p>
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Golang**
 
-- 🌱 I’m currently learning **Golang,Java21,Azure,Kafka,Python**
+- 🌱 I’m currently learning **Golang,Java21,Azure,Aws,Kafka,SpringBoot,Devops**
 
 - 💬 Ask me about **Java,Kotlin,Golang,Aws,Kafka,Azure,Docker,Kubernetes,Terraform,ArgoCD,Github_Action**
 
